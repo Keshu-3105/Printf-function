@@ -85,7 +85,7 @@ int main()
     printf("\n");
     printf("this is for showing characher printing %c\n", 'y');
     printf("this is for showing characher printing %s \n", "working");
-    printf("this is for showing misslenious printing %%\n");
+    printf("this is for showing miscellaneous printing %%\n");
     printf("This if for showing multiple printing: %c is the first character of %s\n", 'k', "Keshav");
 
     return 0;
